@@ -1,4 +1,4 @@
-# hand_recognition_cnn
+# Hand recognition cnn
 Hand-signs image recognition using 4 layers <b>convolutional neural network</b> using TensorFlow that recognize numbers from 0 to 5 in sign language
 
 <ul>
