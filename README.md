@@ -9,7 +9,7 @@ Hand-signs image recognition using 3 layers <b>convolutional neural network</b> 
 <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32612515-6c0dee0e-c5a3-11e7-82e7-1d872ffd022e.png" width="500"></p>
 
 We implement a <b>3 layers convolutional neural network</b> using TensorFlow. Images resolution lowered to 64 x 64 pixels before putting into the network. 
-<p align="center"><img src="https://user-images.githubusercontent.com/24521991/32612759-0a432efe-c5a4-11e7-8d77-917f73f09cbf.png" width="500"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/24521991/33076276-42b6f2ae-cf07-11e7-8428-23b585b4d712.png" width="900"></p>
 
 ### hand_cnn_model.py
 <ul>
