@@ -9,7 +9,7 @@ Hand-signs image recognition using 4 layers <b>convolutional neural network</b> 
 <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32612515-6c0dee0e-c5a3-11e7-82e7-1d872ffd022e.png" width="500"></p>
 
 We implement a <b>4 layers convolutional neural network</b> using TensorFlow following next model: CONV2D -> RELU -> MAXPOOL -> CONV2D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNECTED. 
-<p align="center"><img src="https://user-images.githubusercontent.com/24521991/33076276-42b6f2ae-cf07-11e7-8428-23b585b4d712.png" width="900"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/24521991/33076989-6c4ed38c-cf09-11e7-87ac-fc4e5e604284.png" width="900"></p>
 
 ### hand_cnn_model.py
 <ul>
